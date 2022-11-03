@@ -10,6 +10,7 @@
                 "-fcolor-diagnostics",
                 "-fansi-escape-codes",
                 "${file}",
+                "-g0",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
