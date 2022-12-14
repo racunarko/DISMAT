@@ -1,0 +1,3 @@
+/Users/dominik/VSCodeWorkspaces/DISMAT/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir
+/Users/dominik/VSCodeWorkspaces/DISMAT/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dominik/VSCodeWorkspaces/DISMAT/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
